@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIA5FLBHMCHDS7KTGGY
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/904831393934/RajuQueue
+      
+server:  port: 9090
